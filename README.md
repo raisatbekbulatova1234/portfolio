@@ -4,7 +4,7 @@
 
 резюме по ссылке  https://docs.google.com/document/d/1FAY2j6TGrJVCUerPitrYm7H2alq2aoZqdoUU_HPeh4w/edit?usp=sharing
 
-контакты по ссылке https://tap.link/raisat-bekbulatova
+контакты по ссылке [https://tap.link/raisat-bekbulatova](https://tap.link/raisat-bekbulatova)
 
 # Мои ключевые навыки:
 - Программирование на Java
