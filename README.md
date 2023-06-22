@@ -2,7 +2,7 @@
 
 **Я Раисат, разработчик на Java**           
 
-резюме по ссылке   file:///C:/Users/raisa/Downloads/CV%20Raisat%20Bekbulatova%20Java-developer.pdf
+резюме по ссылке   <iframe src="https://docs.google.com/document/d/e/2PACX-1vQhaRZwtQQm9_FibdYvjnv4msxkfFVhM8wcknYNxSjytuFfcY0kSBa9xtXKMsQFGHjLUlijUMKILgWP/pub?embedded=true"></iframe>
 
 контакты по ссылке https://tap.link/raisat-bekbulatova
 
