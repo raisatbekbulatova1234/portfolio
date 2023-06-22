@@ -2,7 +2,7 @@
 
 **Я Раисат, разработчик на Java**           
 
-резюме по ссылке   <iframe src="https://docs.google.com/document/d/e/2PACX-1vQhaRZwtQQm9_FibdYvjnv4msxkfFVhM8wcknYNxSjytuFfcY0kSBa9xtXKMsQFGHjLUlijUMKILgWP/pub?embedded=true"></iframe>
+резюме по ссылке   https://docs.google.com/document/d/e/2PACX-1vQhaRZwtQQm9_FibdYvjnv4msxkfFVhM8wcknYNxSjytuFfcY0kSBa9xtXKMsQFGHjLUlijUMKILgWP/pub
 
 контакты по ссылке https://tap.link/raisat-bekbulatova
 
